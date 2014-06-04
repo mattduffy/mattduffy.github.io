@@ -1,2 +1,2 @@
-mattduffy.github.io
+[mattduffy.github.io](mattduffy.github.io)
 ===================

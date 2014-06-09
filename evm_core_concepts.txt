@@ -1,0 +1,10 @@
+The core concepts of EVM and how they are applied to traditional project management.
+
+Core concepts include:
+* planning
+* tracking
+* projections
+* indexing
+* efficiency
+* scheduling
+

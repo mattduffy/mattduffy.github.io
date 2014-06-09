@@ -1,0 +1,7 @@
+The official evm standard in use by NASA:
+
+NASA:  http://evm.nasa.gov/index.html
+DFARS: http://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html
+ANSI:  http://www.ansi.org/news_publications/news_story.aspx?menuid=7&articleid=1839
+       http://webstore.ansi.org/RecordDetail.aspx?sku=ANSI%2fEIA-748-A-1998
+
